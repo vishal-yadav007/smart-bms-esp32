@@ -1,4 +1,4 @@
-# Smart Battery Management System Using CAN and IoT
+ Smart Battery Management System Using CAN and IoT
 
 An IoT-based battery monitoring and protection system built around two ESP32 boards connected over a CAN bus. The receiver collects battery data, monitors temperature, controls a cooling fan, and uploads everything to Firebase for display on a web dashboard.
 
